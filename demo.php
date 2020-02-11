@@ -24,6 +24,6 @@ if(!empty($pass)){
 }
     else{
         echo "<h3>please enter the details!!...</h3>";
-    }
+   }
 
 ?>
