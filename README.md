@@ -4,7 +4,8 @@ languages:
 3) php
 4) java script
 5) database:mysql
-softwares:
+
+ softwares:
 1) vs code
 2) xampp
 
